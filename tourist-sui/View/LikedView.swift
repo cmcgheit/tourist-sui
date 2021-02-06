@@ -3,7 +3,6 @@
 //  tourist-sui
 //
 
-
 import SwiftUI
 
 struct LikedView: View {
